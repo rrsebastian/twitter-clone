@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1a2b3c",
+    "pfp": "https://xsgames.co/randomusers/assets/avatars/male/63.jpg",
+    "name": "John Doe",
+    "username": "@johndoe",
+    "tweet": "This is a random tweet!",
+    "verified": false,
+    "likes": 135,
+    "comments": 27,
+    "views": "1K",
+    "retweets": 42,
+    "time_ago": "2h"
+  },
+  {
+    "id": "4d5e6f",
+    "pfp": "https://www.befunky.com/images/wp/wp-2021-01-linkedin-profile-picture-after.jpg?auto=avif,webp&format=jpg&width=944",
+    "name": "Jane Smith",
+    "username": "@janesmith",
+    "tweet": "Just enjoying the day!",
+    "verified": true,
+    "likes": 543,
+    "comments": 68,
+    "views": "2.5K",
+    "retweets": 78,
+    "time_ago": "1d"
+  },
+  {
+    "id": "7g8h9i",
+    "pfp": "https://i.pinimg.com/736x/ae/ec/c2/aeecc22a67dac7987a80ac0724658493.jpg",
+    "name": "Alex Johnson",
+    "username": "@alexj",
+    "tweet": "Coding all night! 💻",
+    "verified": false,
+    "likes": 98,
+    "comments": 12,
+    "views": 789,
+    "retweets": 15,
+    "time_ago": "06/02/24"
+  },
+  {
+    "id": "10j11k12l",
+    "pfp": "https://pbs.twimg.com/media/EaVYmQLUwAMVSy9.jpg",
+    "name": "Ella Williams",
+    "username": "@ellaw",
+    "tweet": "Coffee is life! ☕️",
+    "verified": true,
+    "likes": 754,
+    "comments": 105,
+    "views": "3.5K",
+    "retweets": 92,
+    "time_ago": "3h"
+  },
+  {
+    "id": "13m14n15o",
+    "pfp": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-514428014.jpg",
+    "name": "Chris Brown",
+    "username": "@chrisb",
+    "tweet": "Listening to new music 🎶",
+    "verified": true,
+    "likes": 42,
+    "comments": 8,
+    "views": 456,
+    "retweets": 20,
+    "time_ago": "1d"
+  },
+  {
+    "id": "16p17q18r",
+    "pfp": "https://favim.com/pd/1tb/preview/4/413/4139/41395/4139540.jpg",
+    "name": "Sophie Miller",
+    "username": "@sophiem",
+    "tweet": "Exploring new places 🌍",
+    "verified": true,
+    "likes": 632,
+    "comments": 76,
+    "views": "2K",
+    "retweets": 54,
+    "time_ago": "12h"
+  },
+  {
+    "id": "19s20t21u",
+    "pfp": "https://xsgames.co/randomusers/assets/avatars/male/46.jpg",
+    "name": "David Taylor",
+    "username": "@davidt",
+    "tweet": "Tech trends and innovations 🚀",
+    "verified": false,
+    "likes": 275,
+    "comments": 35,
+    "views": "1.1K",
+    "retweets": 30,
+    "time_ago": "2d"
+  }
+]

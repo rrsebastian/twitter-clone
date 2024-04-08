@@ -1,0 +1,42 @@
+[
+  {
+    "name": "JavaScript",
+    "postCount": "25K"
+  },
+  {
+    "name": "ArtificialIntelligence",
+    "postCount": "43.8K"
+  },
+  {
+    "name": "SpaceExploration",
+    "postCount": "15.3K"
+  },
+  {
+    "name": "DataScience",
+    "postCount": "38.2K"
+  },
+  {
+    "name": "MachineLearning",
+    "postCount": "27.9K"
+  },
+  {
+    "name": "Blockchain",
+    "postCount": "41.7K"
+  },
+  {
+    "name": "Cryptocurrency",
+    "postCount": "19.5K"
+  },
+  {
+    "name": "Cybersecurity",
+    "postCount": "32.2K"
+  },
+  {
+    "name": "WebDevelopment",
+    "postCount": "29.9K"
+  },
+  {
+    "name": "Python",
+    "postCount": "42.7K"
+  }
+]

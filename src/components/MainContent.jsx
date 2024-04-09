@@ -12,8 +12,7 @@ function MainContent({ setIsLoginComplete }) {
   const { addAccount, showProfilePopup, showMore } = useContext(SharedContext);
 
   window.onbeforeunload = function () {
-    // Redirect to the specified URL
-    window.location.href = "/";
+    window.location.href = "https://twitter-clone-sebastian.netlify.app/";
     return false;
   };
 

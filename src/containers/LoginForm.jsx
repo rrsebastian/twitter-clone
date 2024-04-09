@@ -102,7 +102,6 @@ const LoginForm = ({
 
   return (
     <form
-      style={{ display: isLoginComplete && "none" }}
       onSubmit={handleSubmit}
       className="fixed left-2/4 top-[50%] z-20 flex w-[450px] -translate-x-2/4 -translate-y-2/4 flex-col gap-5 rounded-xl bg-white p-[35px] custom-500:w-[350px]"
     >

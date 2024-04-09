@@ -1,8 +1,11 @@
-# React + Vite
+# About this project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my Twitter clone project, I used Tailwind CSS for the first time its a better and easier way to style elements in my opinion, I used local storage to act as a Database and store all the user information in, I made it so you can't redirect to /Home or /Profile page without logging in so you will be redirected to the Sign up page everytime, I added features like Tweeting, deleting tweets, liking and retweeting other users tweets, following users or unfollowing users, adding a profile picture or a banner picture, changing the name or adding a bio, I made sure I can keep adding more features to this project in the future to improve it which is my plan 
 
-Currently, two official plugins are available:
+Live Website - https://twitter-clone-sebastian.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Built with:
+
+• Tailwind CSS
+• React
+

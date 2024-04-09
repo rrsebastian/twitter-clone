@@ -7,5 +7,6 @@ Live Website - https://twitter-clone-sebastian.netlify.app/
 Built with:
 
 • Tailwind CSS
+
 • React
 

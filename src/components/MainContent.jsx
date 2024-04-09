@@ -11,6 +11,12 @@ import MobileHomepageNavbar from "../containers/MobileHomepageNavbar";
 function MainContent({ setIsLoginComplete }) {
   const { addAccount, showProfilePopup, showMore } = useContext(SharedContext);
 
+  window.onbeforeunload = function () {
+    // Redirect to the specified URL
+    window.location.href = "/";
+    return false;
+  };
+
   return (
     <section className="relative m-auto grid h-full max-w-[1440px] grid-cols-[.7fr_1.1fr_1fr] custom-1300:grid-cols-[.5fr_1fr_1fr] custom-1173:grid-cols-[.3fr_1fr_1fr] custom-1080:grid-cols-[.1fr_auto] custom-1080:justify-center custom-1080:pl-[20px] custom-795:grid-cols-[.2fr_1fr] custom-795:pl-0 custom-500:grid-cols-1">
       <div className="flex flex-col">
